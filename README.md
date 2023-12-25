@@ -11,7 +11,7 @@ By the end of it, i will have production-ready web APIs, and better understandin
 *   Use **path parameters** to get a unique URL path per item
 *   Receive JSON data in your requests using **pydantic**
 *   Use API best practices, including **validation**, **serialization**, and **documentation**
-*   Continue learning about FastAPI for **your use cases**
+*   Will continue exploring more about FastAPI for **your use cases**
 
  It contains a careful selection of fragments from the official documentation, avoiding getting lost in technical details while helping you get up to speed as fast as possible.
 
