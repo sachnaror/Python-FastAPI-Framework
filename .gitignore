@@ -7,5 +7,9 @@ sasa
 *.cfg
 HeySachin
 HeySachin/
-__pycache__
+__pycache__/
 .vscode/
+.venv/
+.venv
+venv/
+*.pyc
