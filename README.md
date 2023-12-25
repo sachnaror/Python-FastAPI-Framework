@@ -45,4 +45,10 @@ The first step is to install FastAPI and [Uvicorn](https://www.uvicorn.org/#intr
 
 ...
 
-and..so..on
+
+
+http://127.0.0.1:8000/docs
+
+.
+![image](https://github.com/sachnaror/FastAPI/assets/9551754/c8cbd620-2de9-4e77-938b-ee49e268378e)
+
