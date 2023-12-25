@@ -1,0 +1,14 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+sasa/
+sasa
+bin
+include
+include/
+lib
+*.cfg
+HeySachin
+__pycache__
+
