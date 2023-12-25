@@ -1,5 +1,6 @@
 
 Okay, so, typing whatever is coming to my mind quickly about FastAPI:
+---------------------------------------------------------------------
 
 Creating APIs, or **application programming interfaces**, is an important part of making software accessible to a broad range of users. A quick run through the main concepts of **FastAPI** and how to use it to quickly create web APIs that implement best practices by default.
 
